@@ -4,5 +4,5 @@ Twitter clone React Nanodegree course Udacity
 
 ## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
+* clone the Project
 * install the dependencies - `npm install`
